@@ -1,5 +1,5 @@
 <h1 align="center">Formation CESI - Projet 8-Bit Burger 🍔</h1>
-<h3 align="center">Site internet fictif permettant de consulter des recettes de hamburgers dans le cadre d'un thème gaming retro-futuriste.</h3>
+<h3 align="center">Site internet fictif permettant de consulter des recettes de hamburgers dans le cadre d'un thème gaming rétro-futuriste.</h3>
 
 <h3 align="center">Travail collaboratif dont le dépôt final est consultable à partir du compte Github de jon-zer-1113 en cliquant <a href="https://github.com/jon-zer-1113/b3" target="_blank" rel="noreferrer">ici</a>.</h3>
 
