@@ -1,7 +1,7 @@
 
 # 8-Bit Burger 🍔
 
-Dans le cadre de la formation de développeur informatique que je réalise actuellement au CESI de Bordeaux, j'ai réalisé avec deux autres étudiants du CESI un site internet nommé 8-Bit Burger. Sur fond de thème geek rétro futuriste, le site internet permet aux utilisateurs inscrits de consulter des recettes de hamburgers. Celui-ci possède une architecture MVC en PHP.
+Dans le cadre de la formation de développeur informatique que je réalise actuellement au CESI de Bordeaux, j'ai réalisé avec deux autres étudiants de ma promotion un site internet nommé 8-Bit Burger. Sur fond de thème geek rétro futuriste, le site internet permet aux utilisateurs inscrits de consulter des recettes de hamburgers. Celui-ci possède une architecture MVC en PHP.
 
 Le dépôt final est consultable à partir du compte Github de **Jonathan Zeren** en cliquant <a href="https://github.com/jon-zer-1113/b3" target="_blank" rel="noreferrer">ici</a>.
 
