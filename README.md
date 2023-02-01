@@ -8,11 +8,18 @@ Le dépôt final est consultable à partir du compte Github de **Jonathan Zeren*
 
 ## Liens du site
 
-Le site internet est accessible à tout visiteur à l'adresse suivante:
- - [8bit-burger.melanieroussy.fr](8bit-burger.melanieroussy.fr)
+Le site internet est accessible à tout visiteur à partir de l'adresse suivante:
+- [Accès visiteur](https://8bit-burger.melanieroussy.fr)
 
-L'espace administrateur est accessible à partir du lien suivant:
- - [8bit-burger.melanieroussy.fr/index.php?p=accueil-admin](8bit-burger.melanieroussy.fr/index.php?p=accueil-admin)
+L'espace administrateur est accessible à partir de l'adresse suivante:
+ - [Accès administrateur](https://8bit-burger.melanieroussy.fr/index.php?p=accueil-admin)
+
+
+## Fonctionnalités
+
+- **Accès visiteur:** création de compte, consulter des informations relatives aux concept du site et aux créateurs, formulaire de contact.
+- **Accès utilisateur:** login, consulter les recettes de hamburgers, laisse des commentaires, imprimer ou télécharger une recette.
+- **Accès administrateur**: création de compte, login, CRUD portant sur les recettes de hamburgers, possibilité de créer un compte utilisateur pour le super administrateur.  
 
 
 ## Langages
