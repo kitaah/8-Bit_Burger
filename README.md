@@ -18,13 +18,13 @@ L'espace administrateur est accessible à partir de l'adresse suivante:
 ## Fonctionnalités
 
 - **Accès visiteur:** création de compte, consulter des informations relatives aux concept du site et aux créateurs, formulaire de contact.
-- **Accès utilisateur:** login, consulter les recettes de hamburgers, laisse des commentaires, imprimer ou télécharger une recette.
-- **Accès administrateur**: création de compte, login, CRUD portant sur les recettes de hamburgers, possibilité de créer un compte utilisateur pour le super administrateur.  
+- **Accès utilisateur:** login, consulter les recettes de hamburgers, laisse des commentaires, imprimer ou télécharger une recette, envoyer une liste de courses par email.
+- **Accès administrateur**: création de compte, login, CRUD portant sur les recettes de hamburgers, possibilité de supprimer un compte utilisateur pour le super administrateur.  
 
 
 ## Langages
 
-- **Front-end:** HTML, CSS, JavaScript, SASS (avec API FormSubmit, framework CSS Bootstrap, librairie d'icônes Fontawesome)
+- **Front-end:** HTML, CSS, JavaScript, SASS (avec API FormSubmit pour l'envoi d'emails, framework CSS Bootstrap, librairie d'icônes Fontawesome)
 - **Back-end:** PHP, SQL
 
 
