@@ -24,7 +24,7 @@ L'espace administrateur est accessible à partir de l'adresse suivante:
 
 ## Langages
 
-- **Front-end:** HTML, CSS, JavaScript, SASS (avec API FormSubmit pour l'envoi d'emails, framework CSS Bootstrap, librairie d'icônes Fontawesome)
+- **Front-end:** HTML, CSS, JavaScript, SASS (avec API FormSubmit pour l'envoi d'emails, framework CSS Bootstrap, librairie d'icônes Font Awesome )
 - **Back-end:** PHP, SQL
 
 
