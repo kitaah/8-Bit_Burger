@@ -34,7 +34,7 @@ L'espace administrateur est accessible à partir de l'adresse suivante:
 - **Maquettage**: Adobe XD
 - **IDE:** Visual Studio code
 - **Modélisation de base de données**: JMerise
-- **Serveur local:** WampServer (utilisation de MySQL et phpMyAdmin)
+- **Serveur local:** WampServer (utilisation de MariaDB et phpMyAdmin)
 - **Gestion de version**: Git
 - **Client FTP:** Filezilla
 
