@@ -9,7 +9,7 @@ Le dépôt final est consultable à partir du compte Github de **Jonathan Zeren*
 ## Liens du site
 
 Le site internet est accessible à tout visiteur à partir de l'adresse suivante:
-- [Accès visiteur](https://8bit-burger.melanieroussy.fr)
+- [Accès visiteur](https://8bit-burger.melanieroussy.fr/index.php?p=accueil)
 
 L'espace administrateur est accessible à partir de l'adresse suivante:
  - [Accès administrateur](https://8bit-burger.melanieroussy.fr/index.php?p=accueil-admin)
