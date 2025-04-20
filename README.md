@@ -6,15 +6,6 @@ Dans le cadre de la formation de développeur informatique que je réalise actue
 Le dépôt final est consultable à partir du compte Github de **Jonathan Zeren** en cliquant <a href="https://github.com/jon-zer-1113/b3" target="_blank" rel="noreferrer">ici</a>.
 
 
-## Liens du site
-
-Le site internet est accessible à tout visiteur à partir de l'adresse suivante:
-- [Accès visiteur](https://8bit-burger.melanieroussy.fr/index.php?p=accueil)
-
-L'espace administrateur est accessible à partir de l'adresse suivante:
- - [Accès administrateur](https://8bit-burger.melanieroussy.fr/index.php?p=accueil-admin)
-
-
 ## Fonctionnalités
 
 - **Accès visiteur:** création de compte, consulter des informations relatives aux concept du site et aux créateurs, formulaire de contact.
